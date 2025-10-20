@@ -6,7 +6,7 @@ import os
 # --- Project Configuration ---
 PROJECT_NAME = "Project Balance"
 OUTPUT_FILENAME = "project_balance_simulation.png"
-#example date with full data available
+#example date 
 DAY_TO_SIMULATE = "2008-06-01" 
 
 def load_home_demand_data(day_str):

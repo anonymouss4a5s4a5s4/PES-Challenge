@@ -1,6 +1,6 @@
 # Project Balance: An AI for Smart Battery Control
 
-**A submission for the IEEE PES & YP Challenge by Mouhib Farhat.**
+**A submission for the IEEE PES & YP Challenge**
 
 ---
 

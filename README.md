@@ -33,11 +33,8 @@ The plot below is the main result of Phase 1. It shows all the different data si
 
 ### 4. How to Reproduce This
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [your-repo-url]
-    cd [your-repo-folder]
-    ```
+1.  **Clone the repository**
+   
 
 2.  **Install dependencies:**
     ```bash

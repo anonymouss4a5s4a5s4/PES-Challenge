@@ -44,7 +44,7 @@ The plot below is the main result of Phase 1. It shows all the different data si
 3.  **Run the simulation pipeline:**
     *First, make sure you have the `household_power_consumption.txt` file in the directory.*
     ```bash
-    python project_balance_simulation.py
+    python project_balance.py
     ```
     This will regenerate the plot above.
 
